@@ -1,0 +1,5 @@
+# Carpeta node_modules
+node_modules/
+
+# Env
+.env
